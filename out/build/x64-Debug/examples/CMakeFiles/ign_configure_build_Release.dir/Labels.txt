@@ -1,0 +1,14 @@
+# Target labels
+ ign_configure_build_Release
+# Source files and their labels
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Release
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Release.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Release-complete.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-install.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-mkdir.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-download.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-update.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-patch.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-configure.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-build.rule
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-test.rule

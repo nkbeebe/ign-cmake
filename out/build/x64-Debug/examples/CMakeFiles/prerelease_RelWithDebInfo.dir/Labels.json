@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/prerelease_RelWithDebInfo"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/prerelease_RelWithDebInfo.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/prerelease_RelWithDebInfo-complete.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/prerelease_RelWithDebInfo-prefix/src/prerelease_RelWithDebInfo-stamp/prerelease_RelWithDebInfo-install.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/prerelease_RelWithDebInfo-prefix/src/prerelease_RelWithDebInfo-stamp/prerelease_RelWithDebInfo-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/prerelease_RelWithDebInfo-prefix/src/prerelease_RelWithDebInfo-stamp/prerelease_RelWithDebInfo-download.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/prerelease_RelWithDebInfo-prefix/src/prerelease_RelWithDebInfo-stamp/prerelease_RelWithDebInfo-update.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/prerelease_RelWithDebInfo-prefix/src/prerelease_RelWithDebInfo-stamp/prerelease_RelWithDebInfo-patch.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/prerelease_RelWithDebInfo-prefix/src/prerelease_RelWithDebInfo-stamp/prerelease_RelWithDebInfo-configure.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/prerelease_RelWithDebInfo-prefix/src/prerelease_RelWithDebInfo-stamp/prerelease_RelWithDebInfo-build.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/prerelease_RelWithDebInfo-prefix/src/prerelease_RelWithDebInfo-stamp/prerelease_RelWithDebInfo-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"prerelease_RelWithDebInfo"
+		],
+		"name" : "prerelease_RelWithDebInfo"
+	}
+}

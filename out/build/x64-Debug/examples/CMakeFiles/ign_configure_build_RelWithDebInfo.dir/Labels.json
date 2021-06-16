@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_RelWithDebInfo"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_RelWithDebInfo.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_RelWithDebInfo-complete.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_RelWithDebInfo-prefix/src/ign_configure_build_RelWithDebInfo-stamp/ign_configure_build_RelWithDebInfo-install.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_RelWithDebInfo-prefix/src/ign_configure_build_RelWithDebInfo-stamp/ign_configure_build_RelWithDebInfo-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_RelWithDebInfo-prefix/src/ign_configure_build_RelWithDebInfo-stamp/ign_configure_build_RelWithDebInfo-download.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_RelWithDebInfo-prefix/src/ign_configure_build_RelWithDebInfo-stamp/ign_configure_build_RelWithDebInfo-update.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_RelWithDebInfo-prefix/src/ign_configure_build_RelWithDebInfo-stamp/ign_configure_build_RelWithDebInfo-patch.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_RelWithDebInfo-prefix/src/ign_configure_build_RelWithDebInfo-stamp/ign_configure_build_RelWithDebInfo-configure.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_RelWithDebInfo-prefix/src/ign_configure_build_RelWithDebInfo-stamp/ign_configure_build_RelWithDebInfo-build.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_RelWithDebInfo-prefix/src/ign_configure_build_RelWithDebInfo-stamp/ign_configure_build_RelWithDebInfo-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ign_configure_build_RelWithDebInfo"
+		],
+		"name" : "ign_configure_build_RelWithDebInfo"
+	}
+}

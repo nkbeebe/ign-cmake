@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Release"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Release.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Release-complete.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-install.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-download.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-update.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-patch.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-configure.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-build.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Release-prefix/src/ign_configure_build_Release-stamp/ign_configure_build_Release-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ign_configure_build_Release"
+		],
+		"name" : "ign_configure_build_Release"
+	}
+}

@@ -1,0 +1,1 @@
+cmd='C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_PREFIX_PATH=C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug;-DCMAKE_BUILD_TYPE=RelWithDebInfo;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

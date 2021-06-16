@@ -1,0 +1,11 @@
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/CMakeFiles/uninstall.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/CMakeFiles/install/local.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/CMakeFiles/install.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/CMakeFiles/rebuild_cache.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/CMakeFiles/list_install_components.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/doc/CMakeFiles/install/local.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/doc/CMakeFiles/install.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/doc/CMakeFiles/edit_cache.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/doc/CMakeFiles/rebuild_cache.dir
+C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/build/doc/CMakeFiles/list_install_components.dir

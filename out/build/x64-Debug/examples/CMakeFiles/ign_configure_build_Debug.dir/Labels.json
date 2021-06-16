@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Debug"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Debug.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/CMakeFiles/ign_configure_build_Debug-complete.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Debug-prefix/src/ign_configure_build_Debug-stamp/ign_configure_build_Debug-install.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Debug-prefix/src/ign_configure_build_Debug-stamp/ign_configure_build_Debug-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Debug-prefix/src/ign_configure_build_Debug-stamp/ign_configure_build_Debug-download.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Debug-prefix/src/ign_configure_build_Debug-stamp/ign_configure_build_Debug-update.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Debug-prefix/src/ign_configure_build_Debug-stamp/ign_configure_build_Debug-patch.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Debug-prefix/src/ign_configure_build_Debug-stamp/ign_configure_build_Debug-configure.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Debug-prefix/src/ign_configure_build_Debug-stamp/ign_configure_build_Debug-build.rule"
+		},
+		{
+			"file" : "C:/Users/nqb0517/Desktop/gz-ws/ign-cmake/out/build/x64-Debug/examples/ign_configure_build_Debug-prefix/src/ign_configure_build_Debug-stamp/ign_configure_build_Debug-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ign_configure_build_Debug"
+		],
+		"name" : "ign_configure_build_Debug"
+	}
+}
